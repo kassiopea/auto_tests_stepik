@@ -5,6 +5,8 @@
 * Selenium webdriver 3.141
 * python 3.7
 
+#### File numbering rules
+
 Tasks are in the folders with section number
 
 The first number of test filename is number section number
@@ -12,3 +14,4 @@ The first number of test filename is number section number
 The second number of test filename is subsection number
 
 The third number is test serial number in section
+
