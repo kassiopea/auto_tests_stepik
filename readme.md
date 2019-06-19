@@ -1,5 +1,5 @@
-# My auto test project within the course stepik 
-## [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus)
+# My auto tests project 
+## as part of the [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus) course
 
 ### Tools
 * Selenium webdriver 3.141
@@ -15,4 +15,3 @@ The first number of test filename is number section number
 The second number of test filename is subsection number
 
 The third number is test serial number in section
-
