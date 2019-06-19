@@ -4,6 +4,7 @@
 ### Tools
 * Selenium webdriver 3.141
 * python 3.7
+* pytest 3.10.1
 
 #### File numbering rules
 
